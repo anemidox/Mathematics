@@ -1,4 +1,3 @@
 # Mathematics
 
-## Pure Mathematics
-## Applied Mathematics
+## Introdruction to mathematics
